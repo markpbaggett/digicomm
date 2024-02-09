@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "digicomm"
+name = "digital_commons"
 version = "0.1.0"
 description = "A Python Wrapper around Digital Commons Outbound API v.2"
 authors = ["Mark Baggett <mbagget1@utk.edu>"]
